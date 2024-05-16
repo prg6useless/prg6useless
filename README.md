@@ -6,5 +6,5 @@
 🚀 Passionate about technology and have embarked on a journey to become a proficient full-stack developer<br/>
 🌱 Exploring new concepts and expand my skills in both front-end and back-end development<br/>
 
-[![Saral's GitHub stats](https://github-readme-stats.vercel.app/api?username=prg6useless&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Saral's GitHub stats](https://github-readme-stats.vercel.app/api?username=prg6useless&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 

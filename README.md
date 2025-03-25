@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Saral!
-👨‍🎓 An enthusiastic computer science student eager to learn and grow in the world of web development<br>📚 Studying Computer Science at Kathmandu University, Nepal<br>🚀 Passionate about technology and have embarked on a journey to become a proficient full-stack developer<br>🌱 Exploring new concepts and expand my skills in both front-end and back-end development
+👨‍🎓 An enthusiastic computer science student eager to learn and grow in the world of software development<br>📚 Studying Computer Science at Kathmandu University, Nepal<br>🚀 Passionate about technology and have embarked on a journey to become a proficient software developer<br>🌱 Exploring new concepts and expand my skills in both front-end and back-end development
 
 
 # 💻 Tech Stack:

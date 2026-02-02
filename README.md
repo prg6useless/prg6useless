@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Saral!
-Computer Science student focused on AI, Deep Learning, and NLP.
+Associate Software Engineer, Computer Science graduate from Kathmandu University focused on AI, Deep Learning, and NLP.
 Experience in Grails, SpringBoot, React, Node.js, FastAPI, and SQL-based data engineering.
 Conducted research on attention-enhanced BiLSTM models and multilingual sentiment analysis.
 Currently exploring LLMs, Transformers, LSTMs, and modern NLP systems.
